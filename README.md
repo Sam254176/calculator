@@ -8,3 +8,4 @@ you can add subtract multiply and divide numbers and display the result
 Run: python3 calculator.py
 enter the first number, operator (+ - * /), then second number
 the program prints result: followed by the answer
+./run.sh use test 6*7 should give 42 then use ctrl c to exit
