@@ -4,4 +4,5 @@ __pycache__/
 keep-demo.log
 .venv/
 .pytest_cache/
+token.txt
 
